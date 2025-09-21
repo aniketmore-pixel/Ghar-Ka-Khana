@@ -65,8 +65,8 @@ git clone <repository_url>
 
 
 ## Contributors
-Aniket More
-Aarya Arban
-Aryaa Patil
-Digvijaysingh Rajput
+- Aniket More 
+- Aarya Arban
+- Aryaa Patil
+- Digvijaysingh Rajput
 
