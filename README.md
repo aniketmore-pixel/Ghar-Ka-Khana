@@ -4,7 +4,13 @@
 **Ghar Ka Khana** is a comprehensive Java-based desktop application designed to manage a homemade food business efficiently. The application allows admins and staff to manage products, categories, users, and billing, providing a user-friendly interface for smooth operations.
 
 ## Screenshots
-> *(Include screenshots of your application UI here)*
+> <img width="960" height="540" alt="Screenshot 2023-11-07 163757" src="https://github.com/user-attachments/assets/6458cc1a-e88a-49a7-bd6d-a3b554817f39" />
+> <img width="960" height="540" alt="Screenshot 2023-11-07 164255" src="https://github.com/user-attachments/assets/b5c38c35-db02-4c12-874f-14bd68e84cf2" />
+> <img width="960" height="540" alt="Screenshot 2023-11-07 164313" src="https://github.com/user-attachments/assets/0081ee82-4efc-4625-abb3-82a12b7a6a5a" />
+> <img width="960" height="540" alt="Screenshot 2023-11-07 164348" src="https://github.com/user-attachments/assets/8f9cf2e2-19f0-4a50-b341-a1533e2d0885" />
+> <img width="960" height="540" alt="Screenshot 2023-11-07 164422" src="https://github.com/user-attachments/assets/0ad7fe3c-23cc-4412-8f6e-914379d4a75b" />
+> <img width="960" height="433" alt="Screenshot 2023-11-07 164823" src="https://github.com/user-attachments/assets/bcac3226-ca8b-4711-9395-a067f50fd6b0" />
+> <img width="960" height="540" alt="Screenshot 2023-11-07 170656" src="https://github.com/user-attachments/assets/a0cf1491-d0ba-4def-8d74-b881a587e193" />
 
 ## Features
 
