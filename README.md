@@ -3,6 +3,9 @@
 ## Project Description
 **Ghar Ka Khana** is a comprehensive Java-based desktop application designed to manage a homemade food business efficiently. The application allows admins and staff to manage products, categories, users, and billing, providing a user-friendly interface for smooth operations.
 
+## Screenshots
+> *(Include screenshots of your application UI here)*
+
 ## Features
 
 ### Product Management
@@ -58,20 +61,12 @@ git clone <repository_url>
 3. Click on table rows to edit or delete records.
 4. Use the clear button to reset form fields.
 
-## Screenshots
-*(Include screenshots of your application UI here)*
 
-## Contribution
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
+## Contributors
+Aniket More
+Aarya Arban
+Aryaa Patil
+Digvijaysingh Rajput
 
